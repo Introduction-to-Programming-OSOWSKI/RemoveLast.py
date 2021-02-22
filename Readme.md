@@ -1,16 +1,23 @@
-# **Assignment Title**  
+# **Remove Last**  
 
 ## **Assignment Description**  
-
+Create a fucntion called removeLast() that returns a given list j but the last value is removed.
 
 ## **Examples**  
->
+>removeLast([1,2,3,4,5])  
+[1, 2, 3, 4]  
 
 ## **Limitations**  
+1 function  
+1 list  
+0 for loops  
+0 if statements  
 
 ## **Hints**  
+j.remove(1) removes the first value of the list j  
 
 ## **Concepts**  
+Unit 1, Unit 2, Unit 3, lists, list modification  
 
 ---
 
