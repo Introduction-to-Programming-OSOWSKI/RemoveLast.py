@@ -14,7 +14,7 @@ Create a fucntion called removeLast() that returns a given list j but the last v
 0 if statements  
 
 ## **Hints**  
-j.remove(1) removes the first value of the list j  
+j.pop(0) removes the first value of the list j  
 
 ## **Concepts**  
 Unit 1, Unit 2, Unit 3, lists, list modification  
